@@ -1,0 +1,405 @@
+{
+"img wh": [6144, 3840],
+    "robot": {
+        "11a": {
+            "position": [34,   0, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[0, 0],
+                "img": null
+            }
+        },
+        "11b": {
+            "position": [79,   9, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[614, 0],
+                "img": null
+            }
+        },
+        "12a": {
+            "position": [34,  33, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[0, 768],
+                "img": null
+            }
+        },
+        "12b": {
+            "position": [79,  42, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[614, 768],
+                "img": null
+            }
+        },
+        "13a": {
+            "position": [34,  67, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[0, 1536],
+                "img": null
+            }
+        },
+        "13b": {
+            "position": [79,  75, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[614, 1536],
+                "img": null
+            }
+        },
+        "14a": {
+            "position": [34, 100, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[0, 2304],
+                "img": null
+            }
+        },
+        "14b": {
+            "position": [79, 109, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[614, 2304],
+                "img": null
+            }
+        },
+        "15a": {
+            "position": [34, 133, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[0, 3072],
+                "img": null
+            }
+        },
+        "15b": {
+            "position": [79, 142, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[614, 3072],
+                "img": null
+            }
+        },
+                "21a": {
+            "position": [134,   0, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1229, 0],
+                "img": null
+            }
+        },
+        "21b": {
+            "position": [179,   9, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1843, 0],
+                "img": null
+            }
+        },
+        "22a": {
+            "position": [134,  33, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1229, 768],
+                "img": null
+            }
+        },
+        "22b": {
+            "position": [179,  42, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1843, 768],
+                "img": null
+            }
+        },
+        "23a": {
+            "position": [134,  67, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1229, 1536],
+                "img": null
+            }
+        },
+        "23b": {
+            "position": [179,  75, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1843, 1536],
+                "img": null
+            }
+        },
+        "24a": {
+            "position": [134, 100, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1229, 2304],
+                "img": null
+            }
+        },
+        "24b": {
+            "position": [179, 109, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1843, 2304],
+                "img": null
+            }
+        },
+        "25a": {
+            "position": [134, 133, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1229, 3072],
+                "img": null
+            }
+        },
+        "25b": {
+            "position": [179, 142, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[1843, 3072],
+                "img": null
+            }
+        },
+                "31a": {
+            "position": [234,   0, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[2458, 0],
+                "img": null
+            }
+        },
+        "31b": {
+            "position": [279,   9, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3072, 0],
+                "img": null
+            }
+        },
+        "32a": {
+            "position": [234,  33, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[2458, 768],
+                "img": null
+            }
+        },
+        "32b": {
+            "position": [279,  42, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3072, 768],
+                "img": null
+            }
+        },
+        "33a": {
+            "position": [234,  67, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[2458, 1536],
+                "img": null
+            }
+        },
+        "33b": {
+            "position": [279,  75, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3072, 1536],
+                "img": null
+            }
+        },
+        "34a": {
+            "position": [234, 100, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[2458, 2304],
+                "img": null
+            }
+        },
+        "34b": {
+            "position": [279, 109, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3072, 2304],
+                "img": null
+            }
+        },
+        "35a": {
+            "position": [234, 133, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[2458, 3072],
+                "img": null
+            }
+        },
+        "35b": {
+            "position": [279, 142, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3072, 3072],
+                "img": null
+            }
+        },
+                "41a": {
+            "position": [334,   0, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3686, 0],
+                "img": null
+            }
+        },
+        "41b": {
+            "position": [379,   9, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4301, 0],
+                "img": null
+            }
+        },
+        "42a": {
+            "position": [334,  33, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3686, 768],
+                "img": null
+            }
+        },
+        "42b": {
+            "position": [379,  42, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4301, 768],
+                "img": null
+            }
+        },
+        "43a": {
+            "position": [334,  67, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3686, 1536],
+                "img": null
+            }
+        },
+        "43b": {
+            "position": [379,  75, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4301, 1536],
+                "img": null
+            }
+        },
+        "44a": {
+            "position": [334, 100, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3686, 2304],
+                "img": null
+            }
+        },
+        "44b": {
+            "position": [379, 109, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4301, 2304],
+                "img": null
+            }
+        },
+        "45a": {
+            "position": [334, 133, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[3686, 3072],
+                "img": null
+            }
+        },
+        "45b": {
+            "position": [379, 142, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4301, 3072],
+                "img": null
+            }
+        },
+                "51a": {
+            "position": [434,   0, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4915, 0],
+                "img": null
+            }
+        },
+        "51b": {
+            "position": [479,   9, 131, -4.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[5530, 0],
+                "img": null
+            }
+        },
+        "52a": {
+            "position": [434,  33, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4915, 768],
+                "img": null
+            }
+        },
+        "52b": {
+            "position": [479,  42, 132, -5.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[5530, 768],
+                "img": null
+            }
+        },
+        "53a": {
+            "position": [434,  67, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4915, 1536],
+                "img": null
+            }
+        },
+        "53b": {
+            "position": [479,  75, 133, -6.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[5530, 1536],
+                "img": null
+            }
+        },
+        "54a": {
+            "position": [434, 100, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4915, 2304],
+                "img": null
+            }
+        },
+        "54b": {
+            "position": [479, 109, 134, -7.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[5530, 2304],
+                "img": null
+            }
+        },
+        "55a": {
+            "position": [434, 133, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[4915, 3072],
+                "img": null
+            }
+        },
+        "55b": {
+            "position": [479, 142, 135, -8.86],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 0.3, 0.5],
+                "overlay_xy":[5530, 3072],
+                "img": null
+            }
+        }
+    }
+}
