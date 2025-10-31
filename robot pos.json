@@ -1,5 +1,5 @@
 {
-"img wh": [6144, 3840],
+"img wh": [8192, 3840],
     "robot": {
         "11a": {
             "position": [34,   0, 131, -4.86],
@@ -13,7 +13,7 @@
             "position": [79,   9, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[614, 0],
+                "overlay_xy":[1024, 0],
                 "img": null
             }
         },
@@ -29,7 +29,7 @@
             "position": [79,  42, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[614, 768],
+                "overlay_xy":[1024, 768],
                 "img": null
             }
         },
@@ -45,7 +45,7 @@
             "position": [79,  75, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[614, 1536],
+                "overlay_xy":[1024, 1536],
                 "img": null
             }
         },
@@ -61,7 +61,7 @@
             "position": [79, 109, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[614, 2304],
+                "overlay_xy":[1024, 2304],
                 "img": null
             }
         },
@@ -77,15 +77,15 @@
             "position": [79, 142, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[614, 3072],
+                "overlay_xy":[1024, 3072],
                 "img": null
             }
         },
-                "21a": {
+        "21a": {
             "position": [134,   0, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1229, 0],
+                "overlay_xy":[2048, 0],
                 "img": null
             }
         },
@@ -93,7 +93,7 @@
             "position": [179,   9, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1843, 0],
+                "overlay_xy":[3072, 0],
                 "img": null
             }
         },
@@ -101,7 +101,7 @@
             "position": [134,  33, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1229, 768],
+                "overlay_xy":[2048, 768],
                 "img": null
             }
         },
@@ -109,7 +109,7 @@
             "position": [179,  42, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1843, 768],
+                "overlay_xy":[3072, 768],
                 "img": null
             }
         },
@@ -117,7 +117,7 @@
             "position": [134,  67, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1229, 1536],
+                "overlay_xy":[2048, 1536],
                 "img": null
             }
         },
@@ -125,7 +125,7 @@
             "position": [179,  75, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1843, 1536],
+                "overlay_xy":[3072, 1536],
                 "img": null
             }
         },
@@ -133,7 +133,7 @@
             "position": [134, 100, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1229, 2304],
+                "overlay_xy":[2048, 2304],
                 "img": null
             }
         },
@@ -141,7 +141,7 @@
             "position": [179, 109, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1843, 2304],
+                "overlay_xy":[3072, 2304],
                 "img": null
             }
         },
@@ -149,7 +149,7 @@
             "position": [134, 133, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1229, 3072],
+                "overlay_xy":[2048, 3072],
                 "img": null
             }
         },
@@ -157,15 +157,15 @@
             "position": [179, 142, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[1843, 3072],
+                "overlay_xy":[3072, 3072],
                 "img": null
             }
         },
-                "31a": {
+        "31a": {
             "position": [234,   0, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[2458, 0],
+                "overlay_xy":[4096, 0],
                 "img": null
             }
         },
@@ -173,7 +173,7 @@
             "position": [279,   9, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3072, 0],
+                "overlay_xy":[5120, 0],
                 "img": null
             }
         },
@@ -181,7 +181,7 @@
             "position": [234,  33, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[2458, 768],
+                "overlay_xy":[4096, 768],
                 "img": null
             }
         },
@@ -189,7 +189,7 @@
             "position": [279,  42, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3072, 768],
+                "overlay_xy":[5120, 768],
                 "img": null
             }
         },
@@ -197,7 +197,7 @@
             "position": [234,  67, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[2458, 1536],
+                "overlay_xy":[4096, 1536],
                 "img": null
             }
         },
@@ -205,7 +205,7 @@
             "position": [279,  75, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3072, 1536],
+                "overlay_xy":[5120, 1536],
                 "img": null
             }
         },
@@ -213,7 +213,7 @@
             "position": [234, 100, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[2458, 2304],
+                "overlay_xy":[4096, 2304],
                 "img": null
             }
         },
@@ -221,7 +221,7 @@
             "position": [279, 109, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3072, 2304],
+                "overlay_xy":[5120, 2304],
                 "img": null
             }
         },
@@ -229,7 +229,7 @@
             "position": [234, 133, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[2458, 3072],
+                "overlay_xy":[4096, 3072],
                 "img": null
             }
         },
@@ -237,15 +237,15 @@
             "position": [279, 142, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3072, 3072],
+                "overlay_xy":[5120, 3072],
                 "img": null
             }
         },
-                "41a": {
+        "41a": {
             "position": [334,   0, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3686, 0],
+                "overlay_xy":[6144, 0],
                 "img": null
             }
         },
@@ -253,7 +253,7 @@
             "position": [379,   9, 131, -4.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4301, 0],
+                "overlay_xy":[7168, 0],
                 "img": null
             }
         },
@@ -261,7 +261,7 @@
             "position": [334,  33, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3686, 768],
+                "overlay_xy":[6144, 768],
                 "img": null
             }
         },
@@ -269,7 +269,7 @@
             "position": [379,  42, 132, -5.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4301, 768],
+                "overlay_xy":[7168, 768],
                 "img": null
             }
         },
@@ -277,7 +277,7 @@
             "position": [334,  67, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3686, 1536],
+                "overlay_xy":[6144, 1536],
                 "img": null
             }
         },
@@ -285,7 +285,7 @@
             "position": [379,  75, 133, -6.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4301, 1536],
+                "overlay_xy":[7168, 1536],
                 "img": null
             }
         },
@@ -293,7 +293,7 @@
             "position": [334, 100, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3686, 2304],
+                "overlay_xy":[6144, 2304],
                 "img": null
             }
         },
@@ -301,7 +301,7 @@
             "position": [379, 109, 134, -7.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4301, 2304],
+                "overlay_xy":[7168, 2304],
                 "img": null
             }
         },
@@ -309,7 +309,7 @@
             "position": [334, 133, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[3686, 3072],
+                "overlay_xy":[6144, 3072],
                 "img": null
             }
         },
@@ -317,87 +317,7 @@
             "position": [379, 142, 135, -8.86],
             "image_data": {
                 "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4301, 3072],
-                "img": null
-            }
-        },
-                "51a": {
-            "position": [434,   0, 131, -4.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4915, 0],
-                "img": null
-            }
-        },
-        "51b": {
-            "position": [479,   9, 131, -4.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[5530, 0],
-                "img": null
-            }
-        },
-        "52a": {
-            "position": [434,  33, 132, -5.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4915, 768],
-                "img": null
-            }
-        },
-        "52b": {
-            "position": [479,  42, 132, -5.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[5530, 768],
-                "img": null
-            }
-        },
-        "53a": {
-            "position": [434,  67, 133, -6.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4915, 1536],
-                "img": null
-            }
-        },
-        "53b": {
-            "position": [479,  75, 133, -6.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[5530, 1536],
-                "img": null
-            }
-        },
-        "54a": {
-            "position": [434, 100, 134, -7.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4915, 2304],
-                "img": null
-            }
-        },
-        "54b": {
-            "position": [479, 109, 134, -7.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[5530, 2304],
-                "img": null
-            }
-        },
-        "55a": {
-            "position": [434, 133, 135, -8.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[4915, 3072],
-                "img": null
-            }
-        },
-        "55b": {
-            "position": [479, 142, 135, -8.86],
-            "image_data": {
-                "img xywhn": [0.5, 0.5, 0.3, 0.5],
-                "overlay_xy":[5530, 3072],
+                "overlay_xy":[7168, 3072],
                 "img": null
             }
         }
